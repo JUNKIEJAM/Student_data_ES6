@@ -1,0 +1,39 @@
+[    {
+        "ROLL_NO":"1",
+        "NAME":"ABC",
+        "COURSE":"B.Tech",
+        "BRANCH":"CSE",
+        "CONTACT":"9999999999",
+        "E_MAIL":"abc@indiamart.com"
+    },
+
+    
+    {
+        "ROLL_NO":"2",
+        "NAME":"BCD",
+        "COURSE":"B.Tech",
+        "BRANCH":"CSE",
+        "CONTACT":"9999999999",
+        "E_MAIL":"bcd@indiamart.com"
+    },
+
+    
+    {
+        "ROLL_NO":"3",
+        "NAME":"CDE",
+        "COURSE":"B.Tech",
+        "BRANCH":"CSE",
+        "CONTACT":"9999999999",
+        "E_MAIL":"cde@indiamart.com"
+    },
+
+    
+    {
+        "ROLL_NO":"4",
+        "NAME":"DEF",
+        "COURSE":"B.Tech",
+        "BRANCH":"CSE",
+        "CONTACT":"9999999999",
+        "E_MAIL":"def@indiamart.com"
+    }
+]
