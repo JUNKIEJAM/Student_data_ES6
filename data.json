@@ -1,39 +1,39 @@
-[    {
-        "ROLL_NO":"1",
-        "NAME":"ABC",
-        "COURSE":"B.Tech",
-        "BRANCH":"CSE",
-        "CONTACT":"9999999999",
-        "E_MAIL":"abc@indiamart.com"
+[{
+        "ROLL_NO": "1001",
+        "NAME": "ABC",
+        "COURSE": "B.Tech",
+        "BRANCH": "CSE",
+        "CONTACT": "9999999999",
+        "E_MAIL": "abc@gmail.com"
     },
 
-    
+
     {
-        "ROLL_NO":"2",
-        "NAME":"BCD",
-        "COURSE":"B.Tech",
-        "BRANCH":"CSE",
-        "CONTACT":"9999999999",
-        "E_MAIL":"bcd@indiamart.com"
+        "ROLL_NO": "1002",
+        "NAME": "BCD",
+        "COURSE": "B.Tech",
+        "BRANCH": "CSE",
+        "CONTACT": "9999999999",
+        "E_MAIL": "bcd@gmail.com"
     },
 
-    
+
     {
-        "ROLL_NO":"3",
-        "NAME":"CDE",
-        "COURSE":"B.Tech",
-        "BRANCH":"CSE",
-        "CONTACT":"9999999999",
-        "E_MAIL":"cde@indiamart.com"
+        "ROLL_NO": "1003",
+        "NAME": "CDE",
+        "COURSE": "B.Tech",
+        "BRANCH": "CSE",
+        "CONTACT": "9999999999",
+        "E_MAIL": "cde@gmail.com"
     },
 
-    
+
     {
-        "ROLL_NO":"4",
-        "NAME":"DEF",
-        "COURSE":"B.Tech",
-        "BRANCH":"CSE",
-        "CONTACT":"9999999999",
-        "E_MAIL":"def@indiamart.com"
+        "ROLL_NO": "10004",
+        "NAME": "DEF",
+        "COURSE": "B.Tech",
+        "BRANCH": "CSE",
+        "CONTACT": "9999999999",
+        "E_MAIL": "def@gmail.com"
     }
 ]

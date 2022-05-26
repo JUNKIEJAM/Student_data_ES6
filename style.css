@@ -1,16 +1,18 @@
-div,
-td,
-th {
-    border: 1px solid #ddd;
-    text-align: left;
-}
-
-div {
-    border-collapse: collapse;
-    width: 100%;
+table,
+th,
+td {
+    border: 1px solid black;
 }
 
 th,
 td {
-    padding: 15px;
+    padding: 10px;
+    text-align: center;
 }
+
+table {
+    border-collapse: collapse;
+    width:100%;
+}
+
+

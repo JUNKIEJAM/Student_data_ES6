@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
 
-    <link rel="stylesheet" href="style.css">
-
-    <title>JSON Test</title>
     <style>
-       
+        body{
+            background-color:#1d2126;
+            color:white;
+        }
 
         .wrapper{
         
@@ -36,51 +36,28 @@
 
 <body>
 
-    <h1 style="text-align:center">Form Data</h1>
+    <h1>Form Data</h1>
 
     <div class="wrapper">
 
         <form class="form">
 
-            ID: 
-            <br>
             <label id="ID">
-                
+                ID: 
                 <input type="text" name="ID" placeholder="ID" required />
             </label>
 
-            Password:
-            <br>
             <label id="password">
-             
+                PASSWORD: 
                 <input type="password" name="password" placeholder="password" required />
             </label>
 
             <input type="submit" value="submit" name="submit" />
-            <br>
-            <br>
+            
 
         </form>
     </div>
-
-    <table id="myData">
-
-        <tr>
-            <th>Roll No</th>
-            <th>Name</th>
-            <th>Course</th>
-            <th>Branch</th>
-            <th>Phone No</th>
-            <th>E-Mail ID</th>
-        </tr>
-       
-        
-      
-
-    </table>
 </body>
 
-<script src="index.js"></script>
 <script src="formdata.js"></script>
-
 </html>
