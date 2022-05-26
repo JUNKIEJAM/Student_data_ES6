@@ -4,7 +4,7 @@
         "COURSE": "B.Tech",
         "BRANCH": "CSE",
         "CONTACT": "9999999999",
-        "E_MAIL": "abc@gmail.com"
+        "E_MAIL": "abc@indiamart.com"
     },
 
 
@@ -14,7 +14,7 @@
         "COURSE": "B.Tech",
         "BRANCH": "CSE",
         "CONTACT": "9999999999",
-        "E_MAIL": "bcd@gmail.com"
+        "E_MAIL": "bcd@indiamart.com"
     },
 
 
@@ -24,16 +24,16 @@
         "COURSE": "B.Tech",
         "BRANCH": "CSE",
         "CONTACT": "9999999999",
-        "E_MAIL": "cde@gmail.com"
+        "E_MAIL": "cde@indiamart.com"
     },
 
 
     {
-        "ROLL_NO": "10004",
+        "ROLL_NO": "1004",
         "NAME": "DEF",
         "COURSE": "B.Tech",
         "BRANCH": "CSE",
         "CONTACT": "9999999999",
-        "E_MAIL": "def@gmail.com"
+        "E_MAIL": "def@indiamart.com"
     }
 ]

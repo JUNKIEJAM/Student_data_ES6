@@ -9,38 +9,16 @@
     <link rel="stylesheet" href="style.css">
 
     <title>JSON Test</title>
-    <style>
-       
-
-        .wrapper{
-        
-            width: 400px;
-            max-width: 90%;
-            margin: 0 auto;
-        }
-
-        .wrapper label{
-            display:block;
-            margin: 0.5rem 0;
-
-        }
-
-        .wrapper label input{
-            font-size: 18px;
-            padding: 0.5rem;
-        }
-
-        
-    </style>
+   
 </head>
 
 <body>
 
     <h1 style="text-align:center">Form Data</h1>
 
-    <div class="wrapper">
+    <div id="wrapper">
 
-        <form class="form">
+        <form id="form">
 
             ID: 
             <br>
@@ -56,7 +34,7 @@
                 <input type="password" name="password" placeholder="password" required />
             </label>
 
-            <input type="submit" value="submit" name="submit" />
+            <input type="submit" value="submit" name="submit" onClick="submit()" />
             <br>
             <br>
 
@@ -65,22 +43,12 @@
 
     <table id="myData">
 
-        <tr>
-            <th>Roll No</th>
-            <th>Name</th>
-            <th>Course</th>
-            <th>Branch</th>
-            <th>Phone No</th>
-            <th>E-Mail ID</th>
-        </tr>
        
-        
-      
-
+       
     </table>
 </body>
 
 <script src="index.js"></script>
-<script src="formdata.js"></script>
+<!--<script src="formdata.js"></script>-->
 
 </html>
