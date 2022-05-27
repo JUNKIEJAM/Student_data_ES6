@@ -23,7 +23,7 @@ const startTime = new Date().getTime();
 
 const interval = setInterval(function() {
 
-    if (new Date().getTime() - startTime > 30000) {
+    if (new Date().getTime() - startTime > 300000) {
         clearInterval(interval);
         return;
     }
@@ -84,5 +84,5 @@ const interval = setInterval(function() {
         
     }
 
-}, 5000);
+}, 60000);
 
